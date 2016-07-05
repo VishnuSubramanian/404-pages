@@ -1,0 +1,289 @@
+@font-face {
+  font-family: 'Calluna sans';
+  src: url('calluna/Fonts/CallunaSansRegular.otf'); /* IE9 Compat Modes */
+  src: url('calluna/Fonts/CallunaSansRegular.otf') format('otf'), /* IE6-IE8 */
+}
+
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+.font-f-c{font-family: 'calluna sans';}
+
+.display-bl{display: inline-block;}
+.error
+{
+    background-color: #F4F5F0;
+    padding-bottom: 50px;
+}
+.one
+{
+    background-color: #F9DB93;
+    padding-bottom: 50px;
+}
+
+.two
+{
+    background-color: #fff;
+    padding-bottom: 50px;
+}
+
+.lost
+{
+    padding-top: 28%;
+}
+.lost3
+{
+    padding-top: 40%;
+}
+
+/*404 */
+/**/
+.back
+{
+    color: red;
+    font-size: 20px;
+    letter-spacing: 1px;
+/*    margin-top: 40px;*/
+}
+
+.lost0
+{
+    padding-top: 10%;
+}
+.content0
+{
+    padding-top: 40%;
+}
+.content0 h1
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size: 120px;
+    font-weight: 800;
+/*    font-family: calluna;*/
+}
+.content0 h2
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size:30px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0.6px;
+}
+.content0 span
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size:26px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0.6px;
+}
+.content0 h3
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size:20px;
+    font-weight: 500;
+}
+
+
+
+/*End */
+
+.content
+{
+    padding-top: 28%;
+}
+.content h1
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size: 120px;
+    font-weight: 800;
+/*    font-family: calluna;*/
+}
+.content h2
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size:30px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0.6px;
+}
+.content span
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size:26px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0.6px;
+}
+.content h3
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size:20px;
+    font-weight: 500;
+}
+
+/* 4043 */
+.content1
+{
+    padding-top: 40%;
+}
+.content1 h1
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size: 120px;
+    font-weight: 800;
+/*    font-family: calluna;*/
+}
+.content1 h2
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size:30px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0.6px;
+}
+.content1 span
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size:26px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0.6px;
+}
+.content1 h3
+{
+    color: #555A5C;
+/*    text-align: center;*/
+    font-size:20px;
+    font-weight: 500;
+}
+
+.help1
+{
+    text-decoration: none;
+    padding-left: 0px !important;
+}
+.help1 p
+{
+    margin-top: 45px;
+    letter-spacing: 0.6px;
+    padding-left: 10px;
+    
+}
+.help1 li
+{
+    color: red;
+    line-height: 30px;
+    letter-spacing: 0.6px;
+    text-decoration: none;
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+
+
+/* End */
+
+.navbar
+{
+   background: #2B2D2E;
+}
+
+
+#footer {
+  text-align: center;
+  list-style: none;
+}
+
+#footer li {
+  display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-family: lato;
+}
+
+#footer a {
+  text-decoration: none;
+  font-family:;
+  font-weight: bold;
+    font-size: 20px;
+  color: #F5F5F5;
+  font-variant: small-caps;
+    letter-spacing:2px;
+    
+}
+.help
+{
+    text-decoration: none;
+    padding-left: 0px !important;
+}
+.help p
+{
+    margin-top: 45px;
+    letter-spacing: 0.6px;
+    
+}
+.help li
+{
+    color: red;
+    line-height: 30px;
+    letter-spacing: 0.6px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+input
+{
+    background: transparent;
+    border: 1px solid #565A5C;
+    color: #565A5C;
+    margin: 20px;
+    min-width: 325px;
+    height: 40px;
+    border-radius: 5px;
+    letter-spacing:1px;
+    padding-left: 10px;
+}
+
+.url a
+{
+    cursor: pointer;
+}
+
+i
+{
+    color:#565A5C; 
+    
+     border: 1px solid #565A5C;
+    border-radius: 50%;
+    padding: 10px;
+   
+}
+
+.pulse {
+    border: 3px solid #999;
+    -webkit-border-radius: 30px;
+    height: 18px;
+    width: 18px;
+    position: absolute;
+/*    left:20px;*/
+/*    top:214px;*/
+    -webkit-animation: pulsate 1s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.0
+}
+@-webkit-keyframes pulsate {
+    0% {-webkit-transform: scale(0.1, 0.1); opacity: 0.0;}
+    50% {opacity: 1.0;}
+    100% {-webkit-transform: scale(1.2, 1.2); opacity: 0.0;}
+}
